@@ -9,8 +9,11 @@ termux-setup-storage
 pkg update -y && pkg upgrade -y 
 
 pkg install git python python2 ruby gem 
+
 pkg install figlet toilet 
+
 gem install lolcat 
+
 git clone https://github.com/spidey-fb/Tx-Locked
 
 

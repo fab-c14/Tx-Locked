@@ -3,7 +3,7 @@ from set import *
 logo = """
 \t           AUTHOR : SPIDEY-FB                      
 \t                                                                                            
-\t     YOUTUBE : SEARCH(yes our channel name is seach)                                     
+\t     YOUTUBE : tech prover                                 
 \t     TELEGRAM : https://t.me//binyamin_binni 
 \t     INSTAGRAM : __legend__0.01
 \tBLOGSPOT : https://hackersspace77.blogspot.com

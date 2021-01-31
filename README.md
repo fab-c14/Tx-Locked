@@ -1,6 +1,6 @@
 #Tool name : Tx-locked
 
-Tool for cloning Instagram accounts || auto generate password with help of information
+Tool for locking and styling temrninal like a pro user 
 
 * Usage and installation 
 

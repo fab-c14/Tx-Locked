@@ -14,7 +14,6 @@ pkg install figlet toilet
 
 gem install lolcat 
 
-git clone https://github.com/spidey-fb/Tx-Locked
 
 
 
